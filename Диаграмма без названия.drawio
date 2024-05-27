@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2024-05-27T11:08:13.774Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="R0wjdl3RmbRLMmXsgM6K" version="24.4.8" type="github">
+<mxfile host="app.diagrams.net" modified="2024-05-27T11:08:29.782Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0.0.0 Safari/537.36" etag="-pM-9l5VZiLbyG7APKMe" version="24.4.8" type="github">
   <diagram name="Страница — 1" id="rIlWWbe10Ax3GFMxgoC-">
     <mxGraphModel dx="1247" dy="678" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -269,8 +269,8 @@
         <mxCell id="HHi1Jkbsixi5mN6OjThm-106" value="" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};participant=umlActor;" vertex="1" parent="1">
           <mxGeometry x="1250" y="245" width="20" height="375" as="geometry" />
         </mxCell>
-        <mxCell id="HHi1Jkbsixi5mN6OjThm-107" value="Юзер" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="1235" y="218" width="50" height="30" as="geometry" />
+        <mxCell id="HHi1Jkbsixi5mN6OjThm-107" value="Пользователь" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="1210" y="218" width="100" height="30" as="geometry" />
         </mxCell>
         <mxCell id="HHi1Jkbsixi5mN6OjThm-108" value="product page" style="shape=umlLifeline;perimeter=lifelinePerimeter;whiteSpace=wrap;html=1;container=1;dropTarget=0;collapsible=0;recursiveResize=0;outlineConnect=0;portConstraint=eastwest;newEdgeStyle={&quot;curved&quot;:0,&quot;rounded&quot;:0};" vertex="1" parent="1">
           <mxGeometry x="1400" y="240" width="100" height="380" as="geometry" />
